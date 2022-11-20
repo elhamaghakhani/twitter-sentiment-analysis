@@ -1,4 +1,4 @@
-<h1>Tweeter Sentiment Analysis</h1>
+<h1>Twitter Sentiment Analysis</h1>
 
  ### [Google Colab Link](https://colab.research.google.com/drive/1ZZs1WKk_tutIbcQAt3tBYEQiEWHXz2s5?usp=sharing)
 
